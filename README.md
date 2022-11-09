@@ -1,7 +1,6 @@
----
-<img src="codewars.png" style="float: right;" alt="codewars"/>
+### **Разминаю мозг по возможности!**
 
-**Разминаю мозг по возможности!**
+<img src="codewars.png" align="right"/>
 
 На сайте есть своя градация [скила](https://www.codewars.com/about)
 
@@ -13,10 +12,10 @@
 [Мой текущий ранг](https://www.codewars.com/users/Lukiyky):
 
 ![](https://www.codewars.com/users/Lukiyky/badges/large)
-
 ---
 
-Ниже список выполненных заданий с момента как начал их фиксировать:
+
+### Ниже список выполненных заданий с момента как начал их фиксировать:
 
 - 3kyu
     - [null](solutions/3kyu)
