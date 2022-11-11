@@ -36,7 +36,8 @@
     - [Multiples_of_3_or_5](solutions/6kyu/multiples_of_3_or_5)
     - [Stop gninnipS My sdroW!](solutions/6kyu/stop_gninnips_my_sdrow)
     - [Sum of Digits / Digital Root](solutions/6kyu/sum_of_digits_digital_root)
-
+    - [Take a ten minutes walk](solutions/6kyu/take_a_ten_minutes_walk)
+    
 
 - 7kyu
     - [Beginner Series #3 Sum of Numbers](solutions/7kyu/beginner_series_%233_sum_of_numbers)
