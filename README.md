@@ -43,8 +43,11 @@
     - [Beginner Series #3 Sum of Numbers](solutions/7kyu/beginner_series_%233_sum_of_numbers)
     - [Complementary_dna](solutions/7kyu/complementary_dna)
     - [Credit Card Mask](solutions/7kyu/credit_card_mask)
+    - [Disemvowel Trolls](solutions/7kyu/disemvowel_trolls)
+    - [Get the Middle Character](solutions/7kyu/get_the_middle_character)
     - [Shortest Word](solutions/7kyu/shortest_word)
     - [Sum of two lowest positive integers](solutions/7kyu/sum_of_two_lowest_positive_integers)
+    - [Two to One](solutions/7kyu/two_to_one)
     - [Vowel one](solutions/7kyu/vowel_one)
 
 
