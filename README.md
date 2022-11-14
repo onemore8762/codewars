@@ -27,11 +27,13 @@
 
 - 5kyu
     - [Moving Zeros To The End](solutions/5kyu/moving_zeros_to_the_end)
+    - [Simple Pig Latin](solutions/5kyu/simple_pig_latin)
     - [Valid Parentheses](solutions/5kyu/valid_parentheses)
 
 - 6kyu
     - [Bit counting](solutions/6kyu/bit_сounting)
     - [Create Phone Number](solutions/6kyu/create_phone_number)
+    - [Find_the_odd_init](solutions/6kyu/find_the_odd_int)
     - [Find The Parity Outlier](solutions/6kyu/find_the_parity_outlier)
     - [Multiples_of_3_or_5](solutions/6kyu/multiples_of_3_or_5)
     - [Stop gninnipS My sdroW!](solutions/6kyu/stop_gninnips_my_sdrow)
@@ -45,10 +47,13 @@
     - [Credit Card Mask](solutions/7kyu/credit_card_mask)
     - [Disemvowel Trolls](solutions/7kyu/disemvowel_trolls)
     - [Get the Middle Character](solutions/7kyu/get_the_middle_character)
+    - [Mumbling](solutions/7kyu/mumbling)
     - [Shortest Word](solutions/7kyu/shortest_word)
     - [Sum of two lowest positive integers](solutions/7kyu/sum_of_two_lowest_positive_integers)
     - [Two to One](solutions/7kyu/two_to_one)
     - [Vowel one](solutions/7kyu/vowel_one)
+    - [You re a square](solutions/7kyu/you_re_a_square)
+    - [Isograms](solutions/7kyu/isisograms)
 
 
 - 8kyu
