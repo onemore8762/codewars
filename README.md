@@ -66,6 +66,7 @@
 
   - [A Needle in the Haystack](solutions/8kyu/a_needle_in_the_haystack)
   - [Are you playing banjo](solutions/8kyu/are_you_playing_banjo)
+  - [Beginner reduce but grow](solutions/8kyu/beginner_reduce_but_grow)
   - [Beginner Series #2 Clock](solutions/8kyu/beginner_series_%232_clock)
   - [Calculate average](solutions/8kyu/calculate_average)
   - [Count of positives / sum of negatives](solutions/8kyu/count_of_positives_sum_of_negatives)
