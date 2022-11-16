@@ -48,6 +48,7 @@
   - [Credit Card Mask](solutions/7kyu/credit_card_mask)
   - [Disemvowel Trolls](solutions/7kyu/disemvowel_trolls)
   - [Get the Middle Character](solutions/7kyu/get_the_middle_character)
+  - [Growth of a population](solutions/7kyu/growth_of_a_population)
   - [Isograms](solutions/7kyu/isisograms)
   - [Jaden Casing Strings](solutions/7kyu/jaden_casing_strings)
   - [List Filtering](solutions/7kyu/list_filtering)
